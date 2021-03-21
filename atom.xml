@@ -2,26 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>疯狂考研人</title>
   
-  <subtitle>洪卫的博客</subtitle>
+  <subtitle>努力&amp;奋斗</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fkkyr6.github.io/"/>
-  <updated>2021-03-21T01:17:08.722Z</updated>
+  <updated>2021-03-21T07:22:06.283Z</updated>
   <id>https://fkkyr6.github.io/</id>
   
   <author>
-    <name>洪卫</name>
+    <name>fkkyr6</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>text</title>
+    <link href="https://fkkyr6.github.io/2021/03/21/text/"/>
+    <id>https://fkkyr6.github.io/2021/03/21/text/</id>
+    <published>2021-03-21T05:22:14.373Z</published>
+    <updated>2021-03-21T07:22:06.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;呵呵呵&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) {
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>博客开源</title>
-    <link href="https://fkkyr6.github.io/2019/08/27/blog-open-source/"/>
-    <id>https://fkkyr6.github.io/2019/08/27/blog-open-source/</id>
-    <published>2019-08-27T03:41:03.000Z</published>
-    <updated>2021-03-21T01:17:08.722Z</updated>
+    <link href="https://fkkyr6.github.io/2021/03/21/blog-open-source/"/>
+    <id>https://fkkyr6.github.io/2021/03/21/blog-open-source/</id>
+    <published>2021-03-21T03:41:03.000Z</published>
+    <updated>2021-03-21T05:35:20.780Z</updated>
     
     <summary type="html">
     
