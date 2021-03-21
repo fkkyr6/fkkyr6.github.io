@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fkkyr6.github.io/"/>
-  <updated>2021-03-21T07:22:06.283Z</updated>
+  <updated>2021-03-21T13:44:31.464Z</updated>
   <id>https://fkkyr6.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fkkyr6.github.io/2021/03/21/text/"/>
     <id>https://fkkyr6.github.io/2021/03/21/text/</id>
     <published>2021-03-21T05:22:14.373Z</published>
-    <updated>2021-03-21T07:22:06.283Z</updated>
+    <updated>2021-03-21T13:44:31.464Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,10 @@
       
         
         
-          &lt;p&gt;呵呵呵&lt;/p&gt;
+          &lt;p&gt;No matter what happens , I will always be with you .&lt;/p&gt;
 &lt;script&gt;
         document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) {
+         
         
       
     
