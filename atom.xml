@@ -2,19 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>疯狂考研人</title>
   
-  <subtitle>努力&amp;奋斗</subtitle>
+  <subtitle>疯狂考研人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fkkyr6.github.io/"/>
-  <updated>2021-03-21T13:44:31.464Z</updated>
+  <updated>2021-03-22T14:01:49.982Z</updated>
   <id>https://fkkyr6.github.io/</id>
   
   <author>
-    <name>fkkyr6</name>
+    <name>疯狂考研人</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好</title>
+    <link href="https://fkkyr6.github.io/2021/03/22/ni-hao/"/>
+    <id>https://fkkyr6.github.io/2021/03/22/ni-hao/</id>
+    <published>2021-03-22T13:59:08.000Z</published>
+    <updated>2021-03-22T14:01:49.982Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hello , world.&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if
+        
+      
+    
+    </summary>
+    
+      <category term="hello" scheme="https://fkkyr6.github.io/categories/hello/"/>
+    
+    
+      <category term="world" scheme="https://fkkyr6.github.io/tags/world/"/>
+    
+  </entry>
   
   <entry>
     <title>text</title>
@@ -38,36 +68,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>博客开源</title>
-    <link href="https://fkkyr6.github.io/2021/03/21/blog-open-source/"/>
-    <id>https://fkkyr6.github.io/2021/03/21/blog-open-source/</id>
-    <published>2021-03-21T03:41:03.000Z</published>
-    <updated>2021-03-21T05:35:20.780Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot; title=&quot;效果演示&quot;&gt;&lt;/a&gt;效果演示&lt;/h1&gt;&lt;p&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-      <category term="软件安装与配置" scheme="https://fkkyr6.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    
-    
-      <category term="Hexo" scheme="https://fkkyr6.github.io/tags/Hexo/"/>
-    
-      <category term="Github" scheme="https://fkkyr6.github.io/tags/Github/"/>
-    
-      <category term="博客" scheme="https://fkkyr6.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
