@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fkkyr6.github.io/"/>
-  <updated>2021-03-22T14:01:49.982Z</updated>
+  <updated>2021-03-23T12:09:01.439Z</updated>
   <id>https://fkkyr6.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好</title>
-    <link href="https://fkkyr6.github.io/2021/03/22/ni-hao/"/>
-    <id>https://fkkyr6.github.io/2021/03/22/ni-hao/</id>
-    <published>2021-03-22T13:59:08.000Z</published>
-    <updated>2021-03-22T14:01:49.982Z</updated>
+    <title>就这样吧</title>
+    <link href="https://fkkyr6.github.io/archives/undefined.html"/>
+    <id>https://fkkyr6.github.io/archives/undefined.html</id>
+    <published>2021-03-23T11:53:15.000Z</published>
+    <updated>2021-03-23T12:09:01.439Z</updated>
     
     <summary type="html">
     
@@ -29,45 +29,18 @@
       
         
         
-          &lt;p&gt;Hello , world.&lt;/p&gt;
+          &lt;p&gt;博客模板暂时这样了，有空再优化。&lt;br&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/fkkyr6/picture/img/4.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if
+       
         
       
     
     </summary>
     
-      <category term="hello" scheme="https://fkkyr6.github.io/categories/hello/"/>
+      <category term="模板" scheme="https://fkkyr6.github.io/categories/%E6%A8%A1%E6%9D%BF/"/>
     
     
-      <category term="world" scheme="https://fkkyr6.github.io/tags/world/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>text</title>
-    <link href="https://fkkyr6.github.io/2021/03/21/text/"/>
-    <id>https://fkkyr6.github.io/2021/03/21/text/</id>
-    <published>2021-03-21T05:22:14.373Z</published>
-    <updated>2021-03-21T13:44:31.464Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;No matter what happens , I will always be with you .&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-         
-        
-      
-    
-    </summary>
-    
+      <category term="博客" scheme="https://fkkyr6.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
