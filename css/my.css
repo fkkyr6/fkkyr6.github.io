@@ -1,8 +1,8 @@
 /* Here is your custom css styles. */
-/**普通指针样式**/
-body 
-  cursor url('xxxx.cur'),default
-/**链接指针样式**/
-a 
-  &:hover 
-    cursor url('xxxx.cur'),pointer
+
+*{
+    cursor: url("/medias/1.cur"),auto!important;  
+}
+:active{
+    cursor: url("/medias/2.cur"),auto!important;
+}
