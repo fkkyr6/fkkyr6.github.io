@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>就这样吧</title>
+      <title>我的博客样式</title>
       <link href="/archives/c7714734.html"/>
       <url>/archives/c7714734.html</url>
       
-        <content type="html"><![CDATA[<p>博客模板暂时这样了，有空再优化。<br><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://cdn.jsdelivr.net/gh/fkkyr6/picture/img/4.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="博客样式暂时修改成这样了，有空再优化。"><a href="#博客样式暂时修改成这样了，有空再优化。" class="headerlink" title="博客样式暂时修改成这样了，有空再优化。"></a>博客样式暂时修改成这样了，有空再优化。</h1><p><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://cdn.jsdelivr.net/gh/fkkyr6/picture/img/4.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
           
-          <category> 模板 </category>
+          <category> 模板样式 </category>
           
       </categories>
       

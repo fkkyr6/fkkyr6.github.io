@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fkkyr6.github.io/"/>
-  <updated>2021-03-25T06:26:17.262Z</updated>
+  <updated>2021-03-25T09:44:41.348Z</updated>
   <id>https://fkkyr6.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>就这样吧</title>
+    <title>我的博客样式</title>
     <link href="https://fkkyr6.github.io/archives/c7714734.html"/>
     <id>https://fkkyr6.github.io/archives/c7714734.html</id>
     <published>2021-03-23T11:53:15.000Z</published>
-    <updated>2021-03-25T06:26:17.262Z</updated>
+    <updated>2021-03-25T09:44:41.348Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,13 @@
       
         
         
-          &lt;p&gt;博客模板暂时这样了，有空再优化。&lt;br&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg&quot;
+          &lt;h1 id=&quot;博客样式暂时修改成这样了，有空再优化。&quot;&gt;&lt;a href=&quot;#博客样式暂时修改成这样了，有空再优化。&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="模板" scheme="https://fkkyr6.github.io/categories/%E6%A8%A1%E6%9D%BF/"/>
+      <category term="模板样式" scheme="https://fkkyr6.github.io/categories/%E6%A8%A1%E6%9D%BF%E6%A0%B7%E5%BC%8F/"/>
     
     
       <category term="博客" scheme="https://fkkyr6.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
