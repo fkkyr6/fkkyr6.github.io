@@ -4,23 +4,29 @@
   
     
     <entry>
-      <title>我的博客样式</title>
-      <link href="archives/c7714734.html"/>
-      <url>archives/c7714734.html</url>
+      <title>英语基本结构</title>
+      <link href="archives/8bfed831.html"/>
+      <url>archives/8bfed831.html</url>
       
-        <content type="html"><![CDATA[<h1 id="博客样式暂时修改成这样了，有空再优化。"><a href="#博客样式暂时修改成这样了，有空再优化。" class="headerlink" title="博客样式暂时修改成这样了，有空再优化。"></a>博客样式暂时修改成这样了，有空再优化。</h1><p><img src="https://cdn.jsdelivr.net/gh/fkkyr6/picture/img/4.jpg" alt=""></p><pre class=" language-yaml"><code class="language-yaml">哈哈哈哈你好吗</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="英语有五种基本结构"><a href="#英语有五种基本结构" class="headerlink" title="英语有五种基本结构"></a>英语有五种基本结构</h1><p>分别是主谓、主谓宾、主谓表、主谓双宾、主谓宾宾补，除了特殊句型，英语的句型都是根据此五种结构来写的，我们只需将单词代入这五种结构，再根据语法调整即可得出正确的句子。</p><h2 id="五种基本结构分析"><a href="#五种基本结构分析" class="headerlink" title="五种基本结构分析"></a>五种基本结构分析</h2><p>一、主谓:主语+谓语</p><pre class=" language-yaml"><code class="language-yaml">举例：The dog ran away. 狗跑了。</code></pre><p>二、主谓宾：主语+谓语+宾语</p><pre class=" language-yaml"><code class="language-yaml">主谓宾的谓语为实义动词，凡是能表达动作的词都叫实义动词，比如唱、跳、听、说<span class="token punctuation">...</span>举例：He teaches english. 他教英语。</code></pre><p>三、主谓表：主语+谓语+表语</p><pre class=" language-yaml"><code class="language-yaml">主谓表的谓语为系动词，系动词主要有以下六类：表状态：be动词表感官：look<span class="token punctuation">,</span>smell<span class="token punctuation">,</span>taste<span class="token punctuation">,</span>sound<span class="token punctuation">,</span>feel表变化：become<span class="token punctuation">,</span>get<span class="token punctuation">,</span>turn<span class="token punctuation">,</span>grow<span class="token punctuation">,</span>fall表保持：keep<span class="token punctuation">,</span>stay<span class="token punctuation">,</span>remain<span class="token punctuation">,</span>stand表表象：seem<span class="token punctuation">,</span>appear表终止：prove举例：The flowers look beautiful. 花看起来很美</code></pre><p>四、主谓双宾：主语+谓语+间接宾语+直接宾语</p><pre class=" language-yaml"><code class="language-yaml">举例：He teaches us english. 他教我们英语。（teach sb. sth. /give sb. sth. /tell sb. sth.）</code></pre><p>五、主谓宾宾补:主语+谓语+宾语+宾语补足语</p><pre class=" language-yaml"><code class="language-yaml">举例：He asks us to learn english. 他要求我们学习英语。（ask sb. to do sth. /want sb. to do sth. /make sb. do sth.）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
           
-          <category> 模板样式 </category>
+          <category> 英语 </category>
+          
+          <category> 长难句 </category>
+          
+          <category> 简单句 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 博客 </tag>
+            <tag> 英语 </tag>
+            
+            <tag> 简单句 </tag>
             
         </tags>
       
