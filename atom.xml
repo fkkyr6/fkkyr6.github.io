@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fkky.ren/"/>
-  <updated>2021-03-30T11:19:28.081Z</updated>
+  <updated>2021-03-31T07:41:30.549Z</updated>
   <id>https://fkky.ren/</id>
   
   <author>
@@ -17,11 +17,74 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>英语考研单词</title>
+    <link href="https://fkky.ren/archives/f93b6746.html"/>
+    <id>https://fkky.ren/archives/f93b6746.html</id>
+    <published>2021-03-31T02:34:32.000Z</published>
+    <updated>2021-03-31T07:41:30.549Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;记就完了。&lt;/p&gt;
+&lt;pre class=&quot; language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;abandon vt.遗弃；抛弃；放弃 n.放纵；放任
+abdomen n.腹部，下腹（胸部到腿部的部分）
+abide
+        
+      
+    
+    </summary>
+    
+      <category term="英语" scheme="https://fkky.ren/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="单词" scheme="https://fkky.ren/categories/%E8%8B%B1%E8%AF%AD/%E5%8D%95%E8%AF%8D/"/>
+    
+    
+      <category term="英语" scheme="https://fkky.ren/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="单词" scheme="https://fkky.ren/tags/%E5%8D%95%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学学习笔记</title>
+    <link href="https://fkky.ren/archives/d682ad13.html"/>
+    <id>https://fkky.ren/archives/d682ad13.html</id>
+    <published>2021-03-30T12:16:14.000Z</published>
+    <updated>2021-03-31T07:46:31.332Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;暂无内容。&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) {
+        
+      
+    
+    </summary>
+    
+      <category term="数学" scheme="https://fkky.ren/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学" scheme="https://fkky.ren/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>英语基本结构</title>
     <link href="https://fkky.ren/archives/8bfed831.html"/>
     <id>https://fkky.ren/archives/8bfed831.html</id>
     <published>2021-03-30T06:47:54.000Z</published>
-    <updated>2021-03-30T11:19:28.081Z</updated>
+    <updated>2021-03-31T07:39:09.253Z</updated>
     
     <summary type="html">
     
@@ -45,6 +108,41 @@
       <category term="英语" scheme="https://fkky.ren/tags/%E8%8B%B1%E8%AF%AD/"/>
     
       <category term="简单句" scheme="https://fkky.ren/tags/%E7%AE%80%E5%8D%95%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英语的主语与谓语</title>
+    <link href="https://fkky.ren/archives/8bfed832.html"/>
+    <id>https://fkky.ren/archives/8bfed832.html</id>
+    <published>2021-03-30T06:47:54.000Z</published>
+    <updated>2021-03-31T07:40:00.278Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;英语的主语&quot;&gt;&lt;a href=&quot;#英语的主语&quot; class=&quot;headerlink&quot; title=&quot;英语的主语&quot;&gt;&lt;/a&gt;英语的主语&lt;/h1&gt;&lt;p&gt;我们的中文可以没有主语，但是在英语中，必须要有主语。&lt;br&gt;那么，没有主语的中文，如何翻译成英文？&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="英语" scheme="https://fkky.ren/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="长难句" scheme="https://fkky.ren/categories/%E8%8B%B1%E8%AF%AD/%E9%95%BF%E9%9A%BE%E5%8F%A5/"/>
+    
+      <category term="简单句" scheme="https://fkky.ren/categories/%E8%8B%B1%E8%AF%AD/%E9%95%BF%E9%9A%BE%E5%8F%A5/%E7%AE%80%E5%8D%95%E5%8F%A5/"/>
+    
+    
+      <category term="英语" scheme="https://fkky.ren/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="主语" scheme="https://fkky.ren/tags/%E4%B8%BB%E8%AF%AD/"/>
+    
+      <category term="谓语" scheme="https://fkky.ren/tags/%E8%B0%93%E8%AF%AD/"/>
     
   </entry>
   
