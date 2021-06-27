@@ -180,10 +180,7 @@
         
         
           &lt;p&gt;暂无内容。&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) {
+
         
       
     
